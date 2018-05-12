@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6075
     wikipedia: http://en.wikipedia.org/wiki/Guillaume_Apollinaire
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22971#Les-trois-Don-Juan
 gutenberg_bookshelf: FR Séduction et libertinage
 gutenberg_issued: '2007-10-12'
 gutenberg_type: Text
