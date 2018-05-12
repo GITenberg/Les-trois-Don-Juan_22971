@@ -1,0 +1,33 @@
+_repo: Les-trois-Don-Juan_22971
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Apollinaire, Guillaume
+    aliases:
+    - Apollinaris de Kostrowitzky, Wilhelm
+    - De Kostrowisky, Guillaume
+    - Kostrowitzky, Wilhelm Apollinaris de
+    - Kostrowisky, Guillaume de
+    birthdate: 1880
+    deathdate: 1918
+    gutenberg_agent_id: '6075'
+    url: http://www.gutenberg.org/2009/agents/6075
+    wikipedia: http://en.wikipedia.org/wiki/Guillaume_Apollinaire
+description: ''
+gutenberg_bookshelf: FR Séduction et libertinage
+gutenberg_issued: '2007-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22971'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Don Juan (Legendary character)'
+- !lcc 'PQ'
+title: Les trois Don Juan
+url: http://www.gutenberg.org/ebooks/22971
